@@ -1,3 +1,5 @@
+DeltaArch revision to fix bug on several cfg
+-----------------------------------------------------------------
 # DeltArch
 > Delta controller skins on RetroArch.
 
