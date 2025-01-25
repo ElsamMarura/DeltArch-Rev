@@ -1,4 +1,6 @@
 DeltaArch revision to fix bug on several cfg
+
+For now i am only tried to fix all edge to edge potrait layout, since it is the only layout i am using on my devices
 -----------------------------------------------------------------
 # DeltArch
 > Delta controller skins on RetroArch.
